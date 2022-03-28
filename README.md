@@ -6,7 +6,7 @@ I'm a elementary school student in Sweden.
 ## My skills
 
 I'm currently programming in python 3, but also HTML, CSS, and Javascript.
-[Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=WaldemarBjornstrom)
+![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=WaldemarBjornstrom)
 
 
 <!--
