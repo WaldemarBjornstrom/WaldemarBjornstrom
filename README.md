@@ -1,5 +1,6 @@
-### Hi!👋 My name is Waldemar!
+# Hi!👋 My name is Waldemar!
 I'm a elementary school student in Sweden.
+
 🔭 Currently working on my site, Waldemar.tk. Go [check it out!](https://waldemar.tk)! ([Beta here.](https://beta.waldemar.tk))
 
 ## My skills
