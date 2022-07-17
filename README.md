@@ -1,10 +1,10 @@
 # Hi!👋 My name is Waldemar!
-I'm a elementary school student in Sweden.
+I'm an 10th grade student in Sweden. (16y/o)
 
 🔭 Currently working on my site, Waldemar.tk. Go [check it out!](https://waldemar.tk)! ([Beta here.](https://beta.waldemar.tk))
 
 ## My skills
-Currently programming using Python 3, HTML, CSS, and Javascript.
+Currently programming using Python 3, HTML, CSS, and JavaScript, although my JavaScript skills are basically StackOverflow...
 
 [![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=WaldemarBjornstrom&theme=omni&hide_border=true)](#)
 
